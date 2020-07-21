@@ -18,7 +18,7 @@ func main() {
   if secondGreeting != "" {
     fmt.Println("Hello " + secondGreeting)
   } else {
-    fnt.Println("No second greeting")
+    fmt.Println("No second greeting")
   }
 
   // Someimes inputs are not "required" and we can build around that
