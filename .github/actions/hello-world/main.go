@@ -19,6 +19,7 @@ func main() {
   // Someimes inputs are not "required" and we can build around that
   if thirdGreeting != "" {
     fmt.Println("Hello " + thirdGreeting)
-    }
+  }
+
 
 }
